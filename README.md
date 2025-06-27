@@ -1,6 +1,6 @@
 # 🎬 Movie Ratings by Genre
 
-This is a Dash web application that visualizes movie ratings across different genres using an interactive bar chart interface.
+This Dash app provides an interactive bar chart visualization of movie ratings by genre. It’s currently a demo version with limited features — further improvements are planned but not guaranteed. Use it as-is for now.
 
 ## What It Does
 
